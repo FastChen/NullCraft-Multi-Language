@@ -1,11 +1,9 @@
 <div align="center">
 <img width="200" height="200" src="https://raw.githubusercontent.com/FastChen/NullCraft-Multi-Language/master/Img/language.png"/>
 <h2>NullCraft-Multi-Language</h2>
-    <img src="https://img.shields.io/badge/默认语言-中文-orange.svg?longCache=true&style=flat">
+   <p>Hi! 欢迎来到 <b>灵工艺-异域项目</b>. 在这里你可以下载/提交 <b>翻译文件</b> .但是请务必了解一下 <b>书写格式</b> 与 <b>文件结构</b></p>
+   <img src="https://img.shields.io/badge/默认语言-中文-orange.svg?longCache=true&style=flat">
     <img src="https://img.shields.io/badge/当前项目-1-red.svg?longCache=true&style=flat">
-   <p>
-   Hi! 欢迎来到 <b>灵工艺-异域项目</b>. 在这里你可以下载/提交 <b>翻译文件</b> .但是请务必了解一下 <b>书写格式</b> 与 <b>文件结构</b>
-  </p>
 </div>
 
 ## 书写格式
