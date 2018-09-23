@@ -1,0 +1,274 @@
+﻿<!--<主界面>-->
+<s:String x:Key="标签_你好">你好</s:String>
+<s:String x:Key="标签_用户">读取中...</s:String>
+<s:String x:Key="标签_主要功能">主要功能</s:String>
+<s:String x:Key="标签_快捷功能">快捷功能</s:String>
+<s:String x:Key="标签_新闻资讯">新闻资讯</s:String>
+<s:String x:Key="磁贴_新闻标题">似乎没有新闻呢</s:String>
+<s:String x:Key="磁贴_新闻内容">稍后再来看看吧</s:String>
+<s:String x:Key="磁贴_控制面板标题">本软件完全免费 禁止用于商业用途</s:String>
+<s:String x:Key="磁贴_控制面板内容">控制面板</s:String>
+<s:String x:Key="磁贴_配置文件标题">配置文件</s:String>
+<s:String x:Key="磁贴_服务端核心标题">选择核心</s:String>
+<s:String x:Key="磁贴_软件主题设置标题">主题设置</s:String>
+<s:String x:Key="磁贴_服务器插件模组标题">插件＆模组</s:String>
+<s:String x:Key="磁贴_服务器插件模组内容">管理</s:String>
+<s:String x:Key="磁贴_工具箱标题">工具箱</s:String>
+<s:String x:Key="磁贴_工具箱内容">工具</s:String>
+<s:String x:Key="磁贴_本体设置标题">本体设置</s:String>
+<s:String x:Key="磁贴_本体设置内容">设置</s:String>
+<s:String x:Key="磁贴_新手教程标题">教程</s:String>
+<s:String x:Key="磁贴_下载广场标题">下载广场</s:String>
+<s:String x:Key="磁贴_小贴士标题">小贴士</s:String>
+<s:String x:Key="磁贴_控制面板服务器已开启版本">服务器已开启 版本:</s:String>
+<s:String x:Key="磁贴_控制面板正在开启本地模式">正在开启[本地模式]的服务端</s:String>
+<s:String x:Key="磁贴_控制面板正在开启自定义模式">正在开启[自定义模式]的服务端</s:String>
+<s:String x:Key="磁贴_控制面板服务器正常关闭感谢使用">服务器正常关闭 感谢使用</s:String>
+<!--控制面板-->
+<s:String x:Key="标签_控制面板标题">我的世界服务器控制台</s:String>
+<s:String x:Key="标签_控制面板内容">- Minecraft Server Control</s:String>
+<s:String x:Key="按钮_开服">开启服务器</s:String>
+<s:String x:Key="按钮_关服">关闭服务器</s:String>
+<s:String x:Key="按钮_重启">重启服务器</s:String>
+<s:String x:Key="按钮_重启中">正在进行重启</s:String>
+<s:String x:Key="按钮_强制关服">强制关服</s:String>
+<s:String x:Key="开关_崩溃重启">崩溃自动重启:</s:String>
+<s:String x:Key="开关_崩溃重启次数1">已重启{</s:String>
+<s:String x:Key="开关_崩溃重启次数2">]次:</s:String>
+<s:String x:Key="编辑框_发送命令">(发个命令吧我就想静静的看你哔哔)</s:String>
+<s:String x:Key="标签_玩家数量">在线:</s:String>
+<s:String x:Key="标签_玩家管理">玩家列表(右键管理)</s:String>
+<s:String x:Key="标签_玩家空无一人">服务器似乎空无一人</s:String>
+<s:String x:Key="标签_玩家请先开服">请先开启服务器</s:String>
+<s:String x:Key="开关_显示玩家列表">显示玩家列表:</s:String>
+<!--配置文件--> 
+<s:String x:Key="标签_配置文件标题">服务器文件设置</s:String>
+<s:String x:Key="标签_配置文件内容">- Server.properties</s:String>
+<!--服务器模式-->
+<s:String x:Key="标签_服务器模式">服务器模式:</s:String>
+<s:String x:Key="服务器模式_ltem1">生存</s:String>
+<s:String x:Key="服务器模式_ltem2">创造</s:String>
+<s:String x:Key="服务器模式_ltem3">冒险</s:String>
+<s:String x:Key="服务器模式_ltem4">观察者</s:String>
+<!--服务器难度-->
+<s:String x:Key="标签_服务器难度">服务器难度:</s:String>
+<s:String x:Key="服务器难度_ltem1">和平</s:String>
+<s:String x:Key="服务器难度_ltem2">简单</s:String>
+<s:String x:Key="服务器难度_ltem3">普通</s:String>
+<s:String x:Key="服务器难度_ltem4">困难</s:String>
+<!--服务器地图-->
+<s:String x:Key="标签_服务器地图">服务器地图:</s:String>
+<s:String x:Key="服务器地图_ltem1">默认</s:String>
+<s:String x:Key="服务器地图_ltem2">超平坦</s:String>
+<s:String x:Key="服务器地图_ltem3">巨型生物群系</s:String>
+<s:String x:Key="标签_服务器地图种子">服务器种子:</s:String>
+<s:String x:Key="标签_服务器端口">服务器端口:</s:String>
+<s:String x:Key="标签_出生点保护">出生点保护:</s:String>
+<s:String x:Key="标签_主世界名称">主世界名称:</s:String>
+<s:String x:Key="标签_主世界边界">主世界边界:</s:String>
+<s:String x:Key="标签_游戏玩家上限">游戏玩家上限:</s:String>
+<s:String x:Key="标签_天空高度上限">天空高度上限:</s:String>
+<s:String x:Key="开关_是否飞行">是否允许飞行:</s:String>
+<s:String x:Key="开关_是否动物">是否生成动物:</s:String>
+<s:String x:Key="开关_是否怪物">是否生成怪物:</s:String>
+<s:String x:Key="开关_是否NPC">是否生成NPC:</s:String>
+<s:String x:Key="开关_是否建筑">是否生成建筑:</s:String>
+<s:String x:Key="开关_是否地狱">是否开启地狱:</s:String>
+<s:String x:Key="开关_是否PVP">是否开启PVP:</s:String>
+<s:String x:Key="开关_是否极限">是否开启极限:</s:String>
+<s:String x:Key="开关_是否正版">是否开启正版:</s:String>
+<s:String x:Key="开关_开启命令方块">开启命令方块:</s:String>
+<s:String x:Key="开关_获得成就显示">获得成就显示:</s:String>
+<s:String x:Key="开关_开启白名单">开启白名单:</s:String>
+<!--插件管理-->
+<s:String x:Key="管理_允许加载">允许加载</s:String>
+<s:String x:Key="管理_禁止加载">禁止加载</s:String>
+<s:String x:Key="管理_安装时间">安装时间</s:String>
+<s:String x:Key="管理_文件大小">文件大小</s:String>
+<s:String x:Key="管理_文件状态">文件状态</s:String>
+<s:String x:Key="标签_插件管理标题">我的世界服务器插件</s:String>
+<s:String x:Key="标签_插件管理内容">- Minecraft Server Plugins</s:String>
+<s:String x:Key="标签_插件提示标题">这里有没有东西你心里没有点B数吗?</s:String>
+<s:String x:Key="标签_插件提示内容">还不赶紧点击上方的 + 号添加第一个插件!</s:String>
+<s:String x:Key="标签_插件个数标签">暂时没有东西哦</s:String>
+<s:String x:Key="标签_插件个数标签1">共</s:String>
+<s:String x:Key="标签_插件个数标签2">个插件</s:String>
+<!--插件列表右键MenuItem-->
+<s:String x:Key="插件列表右键1">安装插件</s:String>
+<s:String x:Key="插件列表右键2">删除插件</s:String>
+<s:String x:Key="插件列表右键3">移动插件到回收站</s:String>
+<s:String x:Key="插件列表右键4">禁用插件</s:String>
+<s:String x:Key="插件列表右键5">解除禁用</s:String>
+<s:String x:Key="插件列表右键6">打开插件文件夹</s:String>
+<!--模组管理-->
+<s:String x:Key="标签_模组管理标题">我的世界服务器模组</s:String>
+<s:String x:Key="标签_模组管理内容">- Minecraft Server Mods</s:String>
+<s:String x:Key="标签_模组提示标题">没想到吧!这里空空如也</s:String>
+<s:String x:Key="标签_模组提示内容">点击上方的 + 号添加第一个模组吧!</s:String>
+<s:String x:Key="标签_模组个数标签">暂时没有东西哦</s:String>
+<s:String x:Key="标签_模组个数标签1">共</s:String>
+<s:String x:Key="标签_模组个数标签2">个模组</s:String>
+<!--模组列表右键MenuItem-->
+<s:String x:Key="模组列表右键1">安装模组</s:String>
+<s:String x:Key="模组列表右键2">删除模组</s:String>
+<s:String x:Key="模组列表右键3">移动模组到回收站</s:String>
+<s:String x:Key="模组列表右键4">禁用模组</s:String>
+<s:String x:Key="模组列表右键5">解除禁用</s:String>
+<s:String x:Key="模组列表右键6">打开模组文件夹</s:String>
+<!--<工具箱>-->
+<s:String x:Key="标签_工具箱标题">我的世界工具箱</s:String>
+<s:String x:Key="标签_工具箱内容">- MineCraft ToolBox</s:String>
+<s:String x:Key="组_服务端设置">服务端设置</s:String>
+<s:String x:Key="标签_最小内存">最小内存:</s:String>
+<s:String x:Key="标签_最大内存">最大内存:</s:String>
+<s:String x:Key="标签_0为内存自动分配">(0为内存自动分配)</s:String>
+<s:String x:Key="单选框_是否64位">使用64位运行</s:String>
+<s:String x:Key="单选框_是否兼容性">使用兼容运行</s:String>
+<s:String x:Key="按钮_服务端内存保存">保存</s:String>
+<!--<核心选择>-->
+<s:String x:Key="标签_核心选择标题">服务端核心</s:String>
+<s:String x:Key="标签_核心选择内容">- Server Core</s:String>
+<!--<本体设置>-->
+<s:String x:Key="标签_本体设置标题">软件本体设置</s:String>
+<s:String x:Key="标签_本体设置内容">- Software Settings</s:String>
+<s:String x:Key="标签_服务端设定标题">- 服务端设定 -</s:String>
+<s:String x:Key="下拉框_Java列表提示">当前使用默认Java</s:String>
+<s:String x:Key="单选框_数字ID模式">数字ID模式</s:String>
+<s:String x:Key="单选框_英文名称模式">英文名称模式</s:String>
+<s:String x:Key="标签_自定义启动参数提示">附加服务端启动参数</s:String>
+<s:String x:Key="编辑框_自定义启动参数提示">当前使用默认启动参数</s:String>
+<s:String x:Key="标签_更改命令模式提示">注:1.13版本开始只支持英文名称模式</s:String>
+<!--<软件主题>-->
+<s:String x:Key="标签_软件主题标题">软件主题设置</s:String>
+<s:String x:Key="标签_软件主题内容">- Software Theme Settings</s:String>
+<s:String x:Key="标签_主题提示1">自定义属于你的样式</s:String>
+<s:String x:Key="标签_主题提示2">背景不好看?那不如来自定义一个吧!</s:String>
+<s:String x:Key="磁贴_主题磁贴示例标题">配置预览</s:String>
+<s:String x:Key="磁贴_主题磁贴示例内容">示例</s:String>
+<!--软件崩溃-->
+<s:String x:Key="标签_软件崩溃标题">警告:软体不稳定,已重新启动</s:String>
+<s:String x:Key="标签_软件崩溃内容">你可以将错误内容进行反馈</s:String>
+<s:String x:Key="崩溃_错误代码">错误代码:</s:String>
+<s:String x:Key="崩溃_异常信息">异常信息:</s:String>
+<s:String x:Key="崩溃_错误详情">错误详情:</s:String>
+<s:String x:Key="崩溃_异常类型">异常类型:</s:String>
+<s:String x:Key="崩溃_窗体线程异常">窗体线程异常</s:String>
+<s:String x:Key="崩溃_非窗体线程异常">非窗体线程异常</s:String>
+<!--关于我们-->
+<s:String x:Key="提示_你的名字">你的名字</s:String>
+<s:String x:Key="标签_关于我们标题">关于我们 哦当然,还有你</s:String>
+<!--简要按钮信息-->
+<s:String x:Key="提示">提示</s:String>
+<s:String x:Key="错误">错误</s:String>
+<s:String x:Key="警告">警告</s:String>
+<s:String x:Key="注意">注意</s:String>
+<s:String x:Key="确定">确定</s:String>
+<s:String x:Key="取消">取消</s:String>
+<!--ToolTip主界面提示-->
+<s:String x:Key="提示_服务端安装">更换服务端</s:String>
+<s:String x:Key="提示_访问官网">访问官网</s:String>
+<s:String x:Key="提示_服务端IP获取">获取服务器IP</s:String>
+<s:String x:Key="提示_生成Bat文件">生成快捷开服文件</s:String>
+<s:String x:Key="提示_更换服务端地图">更换服务端地图</s:String>
+<!--<ToolTip核心选择>-->
+<s:String x:Key="信息_本地核心启动">开启后开服器会启动开服器文件夹下的Server文件夹里的服务端</s:String>
+<s:String x:Key="信息_指定核心启动">开启后开服器会启动指定文件夹里的服务端</s:String>
+<!--通知内容-->
+<s:String x:Key="通知_由于服务器处于运行状态配置文件会以下次重启应用内容">由于服务器处于运行状态配置文件会以下次重启应用</s:String>
+<s:String x:Key="通知_已成功保存服务端配置文件内容">已成功保存服务端配置文件内容</s:String>
+<!--信息框内容-->
+<s:String x:Key="信息框_你当前使用的不是Mod端可能无法加载Mod">你当前使用的不是模组服可能无法加载模组</s:String>
+<!--返回文本翻译-->
+<s:String x:Key="返回_信息">信息</s:String>
+<s:String x:Key="返回_错误">错误</s:String>
+<s:String x:Key="返回_警告">警告</s:String>
+<s:String x:Key="返回_调试日志已禁用">调试日志已禁用</s:String>
+<s:String x:Key="返回_正在加载服务端配置文件">正在加载服务端配置文件</s:String>
+<s:String x:Key="返回_正在加载地图已完成">正在加载地图,已完成</s:String>
+<s:String x:Key="返回_正在加载地图">正在加载地图</s:String>
+<s:String x:Key="返回_启动Minecraft服务端版本">启动Minecraft服务端版本:</s:String>
+<s:String x:Key="返回_正在加载所需文件请稍等">正在加载所需文件,请稍等...</s:String>
+<s:String x:Key="返回_默认的游戏类型">默认的游戏类型:</s:String>
+<s:String x:Key="返回_生存">生存</s:String>
+<s:String x:Key="返回_创造">创造</s:String>
+<s:String x:Key="返回_冒险">冒险</s:String>
+<s:String x:Key="返回_当前Minecraft服务端端口为">当前Minecraft服务端端口为</s:String>
+<s:String x:Key="返回_开始准备">开始准备:</s:String>
+<s:String x:Key="返回_号地图地图种子">号地图 (地图种子:</s:String>
+<s:String x:Key="返回_正在关闭服务端">正在关闭服务端</s:String>
+<s:String x:Key="返回_正在保存玩家数据">正在保存玩家数据</s:String>
+<s:String x:Key="返回_正在保存地图数据">正在保存地图数据</s:String>
+<s:String x:Key="返回_服务器启动完成">服务器启动完成</s:String>
+<s:String x:Key="返回_需要帮助">如需帮助，键入指令 "help" 或 "?"</s:String>
+<s:String x:Key="返回_实体跟踪范围">实体跟踪范围</s:String>
+<s:String x:Key="返回_实体激活范围">实体激活范围</s:String>
+<s:String x:Key="返回_怪物生成范围">怪物生成范围</s:String>
+<s:String x:Key="返回_随机照明更新">随机照明更新</s:String>
+<s:String x:Key="返回_甘蔗生长调节">甘蔗生长调节</s:String>
+<s:String x:Key="返回_仙人掌增长调节">仙人掌增长调节</s:String>
+<s:String x:Key="返回_蘑菇生长调节">蘑菇生长调节</s:String>
+<s:String x:Key="返回_西瓜增长调节">西瓜增长调节</s:String>
+<s:String x:Key="返回_南瓜增长调节">南瓜增长调节</s:String>
+<s:String x:Key="返回_树苗生长调节">树苗生长调节</s:String>
+<s:String x:Key="返回_小麦生长调节">小麦生长调节</s:String>
+<s:String x:Key="返回_地狱疣生长调节">地狱疣生长调节</s:String>
+<s:String x:Key="返回_僵尸攻击村民">僵尸攻击村民</s:String>
+<s:String x:Key="返回_经验合并半径">经验合并半径</s:String>
+<s:String x:Key="返回_最大TNT爆炸">最大TNT爆炸</s:String>
+<s:String x:Key="返回_结构信息保存">结构信息保存</s:String>
+<s:String x:Key="返回_开始设置世界">开始设置世界</s:String>
+<s:String x:Key="返回_物品消失率">物品消失率</s:String>
+<s:String x:Key="返回_物品合并半径">物品合并半径</s:String>
+<s:String x:Key="返回_同意协议">你需要同意 EULA 协议才能运行服务器.打开服务端文件夹 eula.txt 获取更多信息</s:String>
+<!--<初次使用界面>-->
+<s:String x:Key="标签_首次第一页内容">首先,让我们为首次使用设置一些东西</s:String>
+<s:String x:Key="标签_首次首页标题">欢迎使用</s:String>
+<s:String x:Key="标签_首次首页内容">- NullCraft 呈现 -</s:String>
+<!--<第一页>-->
+<s:String x:Key="标签_首次第二页内容">让你读懂我</s:String>
+<s:String x:Key="标签_首次语言标题">让我猜一猜,你使用什么语言</s:String>
+<s:String x:Key="标签_首次语言内容">对吗?</s:String>
+<s:String x:Key="标签_首次语言提示">如果您想使用其他语言可以在下方更换</s:String>
+<!--<第二页>-->
+<s:String x:Key="标签_首次第三页内容">颜色?LoveLive!</s:String>
+<s:String x:Key="标签_首次颜色标题">什么?不喜欢这个颜色?</s:String>
+<s:String x:Key="标签_首次颜色内容">那我们换一换</s:String>
+<s:String x:Key="标签_首次颜色提示">这些设置可以随时在 主界面 > 主题设置 进行更改</s:String>
+<!--<第三页>-->
+<s:String x:Key="标签_首次第四页内容">内存是什么,能吃吗?</s:String>
+<s:String x:Key="标签_首次内存标题">学会分配服务端内存</s:String>
+<s:String x:Key="标签_首次内存内容">0 为自动分配</s:String>
+<s:String x:Key="标签_首次内存提示">这些设置可以随时在 主界面 > 工具箱 进行更改</s:String>
+<s:String x:Key="标签_首次内存最大">最大内存</s:String>
+<s:String x:Key="标签_首次内存最小">最小内存</s:String>
+<!--<第四页>-->
+<s:String x:Key="标签_首次第五页内容">来点刺激的!</s:String>
+<s:String x:Key="标签_首次名字标题">你好,请问你是</s:String>
+<s:String x:Key="标签_首次名字内容">吗?</s:String>
+<s:String x:Key="标签_首次名字提示">更改这些可以前往 主界面>用户头像 进行更改</s:String>
+<s:String x:Key="标签_首次名字提示标题">如果不是,请告诉我怎么称呼你. (建议不超过10个字)</s:String>
+<s:String x:Key="标签_首次头像标题">名字有了,是时候来个头像了</s:String>
+<s:String x:Key="标签_首次头像内容">选择你自己的头像吧</s:String>
+<s:String x:Key="标签_首次头像提示">注:如果不设置则使用系统用户自定义头像</s:String>
+<s:String x:Key="标签_首次头像提示标题">建议使用正方形图片</s:String>
+<s:String x:Key="按钮_首次设置头像">选取头像</s:String>
+<s:String x:Key="按钮_首次完成头像">重新设置</s:String>
+<!--<第五页>-->
+<s:String x:Key="标签_首次第六页内容">来点更刺激的!</s:String>
+<s:String x:Key="标签_首次背景标题">或许你想来点更刺激的</s:String>
+<s:String x:Key="标签_首次背景内容">让我们自定义背景吧</s:String>
+<s:String x:Key="标签_首次背景提示">这些设置可以随时在 主界面 > 主题设置 进行更改</s:String>
+<s:String x:Key="按钮_首次设置背景">选取背景</s:String>
+<!--<第六页>-->
+<s:String x:Key="标签_首次第七页内容">大吉大利,今晚吃鸡</s:String>
+<s:String x:Key="标签_首次完成标题">首次使用准备完毕</s:String>
+<s:String x:Key="标签_首次完成内容">欢迎使用</s:String>
+<s:String x:Key="标签_首次完成提示">你可以前往 主界面 > 教程 来获取更多帮助</s:String>
+<!--邮件多语言-->
+<s:String x:Key="邮件_服务器发生了一些问题">服务器发生了一些问题</s:String>
+<s:String x:Key="邮件_服务器状态">服务器状态</s:String>
+<s:String x:Key="邮件_服务器版本">服务器版本</s:String>
+<s:String x:Key="邮件_崩溃次数">崩溃次数</s:String>
+<s:String x:Key="邮件_控制台内容">控制台内容</s:String>
+<s:String x:Key="邮件_关闭时间">关闭时间:</s:String>
+<s:String x:Key="邮件_状态关闭">关闭</s:String>
