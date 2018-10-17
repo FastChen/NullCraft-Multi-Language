@@ -1,0 +1,278 @@
+<!-- RU: Перевод от maxim19116, перевод некоторых настроек может отличаться от заявленого. Если вы нашли ошибку напишите мне на почту admin@maxim19116.ru -->
+
+<!-- CN: 从maxim19116翻译，翻译的一些设置可能不同于所述。 如果您发现错误，请给我发电子邮件admin@maxim19116.ru -->
+
+<!--<Основной интерфейс>-->
+<s:String x:Key="标签_你好">Привет</s:String>
+<s:String x:Key="标签_用户">Загрузка...</s:String>
+<s:String x:Key="标签_主要功能">Основные функции</s:String>
+<s:String x:Key="标签_快捷功能">Быстрые функции</s:String>
+<s:String x:Key="标签_新闻资讯">Новости</s:String>
+<s:String x:Key="磁贴_新闻标题">Кажется, новостей нет.</s:String>
+<s:String x:Key="磁贴_新闻内容">Проверьте это позже.</s:String>
+<s:String x:Key="磁贴_控制面板标题">Это программное обеспечение полностью бесплатное и запрещено для коммерческого использования.</s:String>
+<s:String x:Key="磁贴_控制面板内容">Панель управления</s:String>
+<s:String x:Key="磁贴_配置文件标题">Название профиля</s:String>
+<s:String x:Key="磁贴_服务端核心标题">Выбрать ядро</s:String>
+<s:String x:Key="磁贴_软件主题设置标题">Настройки темы</s:String>
+<s:String x:Key="磁贴_服务器插件模组标题">Плагин и модуль</s:String>
+<s:String x:Key="磁贴_服务器插件模组内容">Управление</s:String>
+<s:String x:Key="磁贴_工具箱标题">Инструменты</s:String>
+<s:String x:Key="磁贴_工具箱内容">Инструмент</s:String>
+<s:String x:Key="磁贴_本体设置标题">Настройка главного</s:String>
+<s:String x:Key="磁贴_本体设置内容">Устанавливать</s:String>
+<s:String x:Key="磁贴_新手教程标题">Помощь</s:String>
+<s:String x:Key="磁贴_下载广场标题">Скачать</s:String>
+<s:String x:Key="磁贴_小贴士标题">Поддержать проект</s:String>
+<s:String x:Key="磁贴_控制面板服务器已开启版本">Сервер - открытые версии:</s:String>
+<s:String x:Key="磁贴_控制面板正在开启本地模式">Запуск сервера [Local Mode]</s:String>
+<s:String x:Key="磁贴_控制面板正在开启自定义模式">Запуск сервера [Custom Mode]</s:String>
+<s:String x:Key="磁贴_控制面板服务器正常关闭感谢使用">Обычно сервер отключается. Спасибо за использование</s:String>
+<!--Панель управления-->
+<s:String x:Key="标签_控制面板标题">Моя серверная консоль</s:String>
+<s:String x:Key="标签_控制面板内容">- Minecraft Server Control</s:String>
+<s:String x:Key="按钮_开服">Включить сервер</s:String>
+<s:String x:Key="按钮_关服">Выключить сервер</s:String>
+<s:String x:Key="按钮_重启">Перезапустить сервер</s:String>
+<s:String x:Key="按钮_重启中">Сервер перезагружается!</s:String>
+<s:String x:Key="按钮_强制关服">Обязательное обслуживание</s:String>
+<s:String x:Key="开关_崩溃重启">Автоматические перезагрузки:</s:String>
+<s:String x:Key="开关_崩溃重启次数1">Сервер был перезапущен{</s:String>
+<s:String x:Key="开关_崩溃重启次数2">]Второстепенный:</s:String>
+<s:String x:Key="编辑框_发送命令">(Отправляйте заказ, я хочу видеть вас тихо.)</s:String>
+<s:String x:Key="标签_玩家数量">Интернет:</s:String>
+<s:String x:Key="标签_玩家管理">Список игроков (управление правой кнопкой мыши)</s:String>
+<s:String x:Key="标签_玩家空无一人">На сервере нету игроков :(</s:String>
+<s:String x:Key="标签_玩家请先开服">Сначала включите сервер</s:String>
+<s:String x:Key="开关_显示玩家列表">Показать список игроков:</s:String>
+<!--Файл конфигурации--> 
+<s:String x:Key="标签_配置文件标题">Настройки файла сервера</s:String>
+<s:String x:Key="标签_配置文件内容">- Server.properties</s:String>
+<!--Режим сервера-->
+<s:String x:Key="标签_服务器模式">Режим сервера:</s:String>
+<s:String x:Key="服务器模式_ltem1">Survival</s:String>
+<s:String x:Key="服务器模式_ltem2">Creative</s:String>
+<s:String x:Key="服务器模式_ltem3">Adventure</s:String>
+<s:String x:Key="服务器模式_ltem4">Наблюдатель</s:String>
+<!--Сбой сервера-->
+<s:String x:Key="标签_服务器难度">Тип сервера:</s:String>
+<s:String x:Key="服务器难度_ltem1">Мир</s:String>
+<s:String x:Key="服务器难度_ltem2">Простой</s:String>
+<s:String x:Key="服务器难度_ltem3">Обычный</s:String>
+<s:String x:Key="服务器难度_ltem4">Сложный</s:String>
+<!--Карта сервера-->
+<s:String x:Key="标签_服务器地图">Карта сервера:</s:String>
+<s:String x:Key="服务器地图_ltem1">Обычный</s:String>
+<s:String x:Key="服务器地图_ltem2">Суперплоский</s:String>
+<s:String x:Key="服务器地图_ltem3">Большие биомы</s:String>
+<s:String x:Key="标签_服务器地图种子">Seed сервера:</s:String>
+<s:String x:Key="标签_服务器端口">Порт сервера:</s:String>
+<s:String x:Key="标签_出生点保护">Защита точки спауна:</s:String>
+<s:String x:Key="标签_主世界名称">Основное название:</s:String>
+<s:String x:Key="标签_主世界边界">Граница мира:</s:String>
+<s:String x:Key="标签_游戏玩家上限">Максимальное кол-во слотов:</s:String>
+<s:String x:Key="标签_天空高度上限">Ограничение высоты:</s:String>
+<s:String x:Key="开关_是否飞行">Разрешить полет:</s:String>
+<s:String x:Key="开关_是否动物">Разрешить животных:</s:String>
+<s:String x:Key="开关_是否怪物">Разрешить монстров:</s:String>
+<s:String x:Key="开关_是否NPC">Создание NPC:</s:String>
+<s:String x:Key="开关_是否建筑">Разрешить генерацию строений:</s:String>
+<s:String x:Key="开关_是否地狱">Разрешить ад:</s:String>
+<s:String x:Key="开关_是否PVP">Разрешить PVP:</s:String>
+<s:String x:Key="开关_是否极限">Перезапуск при аварийном сбое:</s:String>
+<s:String x:Key="开关_是否正版">是否开启正版:</s:String>
+<s:String x:Key="开关_开启命令方块">Разрешить командные блоки:</s:String>
+<s:String x:Key="开关_获得成就显示">Анонсировать достижения:</s:String>
+<s:String x:Key="开关_开启白名单">WhiteList:</s:String>
+<!--Управление плагинами-->
+<s:String x:Key="管理_允许加载">Разрешить загрузку</s:String>
+<s:String x:Key="管理_禁止加载">Запретить загрузку</s:String>
+<s:String x:Key="管理_安装时间">Время установки</s:String>
+<s:String x:Key="管理_文件大小">Размер файла</s:String>
+<s:String x:Key="管理_文件状态">Статус файла</s:String>
+<s:String x:Key="标签_插件管理标题">Моb плагины</s:String>
+<s:String x:Key="标签_插件管理内容">- Minecraft Server Plugins</s:String>
+<s:String x:Key="标签_插件提示标题">这里有没有东西你心里没有点B数吗?</s:String>
+<s:String x:Key="标签_插件提示内容">Не торопитесь и нажмите знак +, чтобы добавить первый плагин!</s:String>
+<s:String x:Key="标签_插件个数标签">Пока ничего нет.</s:String>
+<s:String x:Key="标签_插件个数标签1">в целом</s:String>
+<s:String x:Key="标签_插件个数标签2">Плагины</s:String>
+<!--Список плагинов-->
+<s:String x:Key="插件列表右键1">Установить плагин</s:String>
+<s:String x:Key="插件列表右键2">Удалить плагин</s:String>
+<s:String x:Key="插件列表右键3">Переместить плагин в корзину</s:String>
+<s:String x:Key="插件列表右键4">Отключить плагин</s:String>
+<s:String x:Key="插件列表右键5">Папки отключены</s:String>
+<s:String x:Key="插件列表右键6">Открыть папку плагина</s:String>
+<!--Управление плагином-->
+<s:String x:Key="标签_模组管理标题">Мой серверный мод</s:String>
+<s:String x:Key="标签_模组管理内容">- Minecraft Server Mods</s:String>
+<s:String x:Key="标签_模组提示标题">Я этого не ожидал! Здесь пусто.</s:String>
+<s:String x:Key="标签_模组提示内容">Нажмите на знак +, чтобы добавить первый модуль!</s:String>
+<s:String x:Key="标签_模组个数标签">Пока нет ничего.</s:String>
+<s:String x:Key="标签_模组个数标签1">итого</s:String>
+<s:String x:Key="标签_模组个数标签2">мод</s:String>
+<!--Список модулей (правой кнопкой мыши)-->
+<s:String x:Key="模组列表右键1">Установить модуль</s:String>
+<s:String x:Key="模组列表右键2">Удалить модуль</s:String>
+<s:String x:Key="模组列表右键3">Мобильный модуль в корзину</s:String>
+<s:String x:Key="模组列表右键4">Отключить модуль</s:String>
+<s:String x:Key="模组列表右键5">Лифт отключен</s:String>
+<s:String x:Key="模组列表右键6">Откройте папку модуля</s:String>
+<!--<Инструменты>-->
+<s:String x:Key="标签_工具箱标题">Мой набор инструментов</s:String>
+<s:String x:Key="标签_工具箱内容">- MineCraft ToolBox</s:String>
+<s:String x:Key="组_服务端设置">Настройки сервера</s:String>
+<s:String x:Key="标签_最小内存">Минимальная память:</s:String>
+<s:String x:Key="标签_最大内存">Максимальная память:</s:String>
+<s:String x:Key="标签_0为内存自动分配">(0 автоматически выделяется для памяти)</s:String>
+<s:String x:Key="单选框_是否64位">Запуск 64-бит</s:String>
+<s:String x:Key="单选框_是否兼容性">Использовать совместимую операцию</s:String>
+<s:String x:Key="按钮_服务端内存保存">Хранение</s:String>
+<!--<Основной выбор>-->
+<s:String x:Key="标签_核心选择标题">Ядро сервера</s:String>
+<s:String x:Key="标签_核心选择内容">- Server Core</s:String>
+<!--<Настройка ПО>-->
+<s:String x:Key="标签_本体设置标题">Настройки ПО</s:String>
+<s:String x:Key="标签_本体设置内容">- Software Settings</s:String>
+<s:String x:Key="标签_服务端设定标题">- Настройка сервера -</s:String>
+<s:String x:Key="下拉框_Java列表提示">В настоящее время используется Java по умолчанию</s:String>
+<s:String x:Key="单选框_数字ID模式">Режим ID</s:String>
+<s:String x:Key="单选框_英文名称模式">Английский шаблон имени</s:String>
+<s:String x:Key="标签_自定义启动参数提示">Дополнительные параметры запуска сервера</s:String>
+<s:String x:Key="编辑框_自定义启动参数提示">В настоящее время используются параметры запуска по умолчанию</s:String>
+<s:String x:Key="标签_更改命令模式提示">Примечание. Версия 1.13 поддерживает только английский режим имени.</s:String>
+<!--<Тема программного обеспечения>-->
+<s:String x:Key="标签_软件主题标题">Настройки темы программного обеспечения</s:String>
+<s:String x:Key="标签_软件主题内容">- Software Theme Settings</s:String>
+<s:String x:Key="标签_主题提示1">Настройка стиля, который принадлежит вам</s:String>
+<s:String x:Key="标签_主题提示2">Не очень хороший фон? Почему бы вам не настроить его?</s:String>
+<s:String x:Key="磁贴_主题磁贴示例标题">Предварительный просмотр конфигурации</s:String>
+<s:String x:Key="磁贴_主题磁贴示例内容">Примеры</s:String>
+<!--Сбой программного обеспечения-->
+<s:String x:Key="标签_软件崩溃标题">Предупреждение: программное обеспечение нестабильное, перезапущено</s:String>
+<s:String x:Key="标签_软件崩溃内容">Вы можете оставить сообщение об ошибке</s:String>
+<s:String x:Key="崩溃_错误代码">Код ошибки:</s:String>
+<s:String x:Key="崩溃_异常信息">Информация об исключении:</s:String>
+<s:String x:Key="崩溃_错误详情">Сведения об ошибке:</s:String>
+<s:String x:Key="崩溃_异常类型">Тип исключения:</s:String>
+<s:String x:Key="崩溃_窗体线程异常">Исключение потока формы</s:String>
+<s:String x:Key="崩溃_非窗体线程异常">Исключение потока не-формы</s:String>
+<!--О нас-->
+<s:String x:Key="提示_你的名字">Ваше имя</s:String>
+<s:String x:Key="标签_关于我们标题">О нас, конечно, и о вас</s:String>
+<!--Краткая информация о кнопке-->
+<s:String x:Key="提示">Советы</s:String>
+<s:String x:Key="错误">Ошибка</s:String>
+<s:String x:Key="警告">Предупреждение</s:String>
+<s:String x:Key="注意">Внимание</s:String>
+<s:String x:Key="确定">Точно</s:String>
+<s:String x:Key="取消">Отмена</s:String>
+<!--Подсказка к основному интерфейсу ToolTip-->
+<s:String x:Key="提示_服务端安装">Замена сервера</s:String>
+<s:String x:Key="提示_访问官网">Посетите официальный сайт</s:String>
+<s:String x:Key="提示_服务端IP获取">Получение IP-адреса сервера</s:String>
+<s:String x:Key="提示_生成Bat文件">Создание файла быстрого открытия</s:String>
+<s:String x:Key="提示_更换服务端地图">Замена карты сервера</s:String>
+<!--<Выбор ядра ToolTip>-->
+<s:String x:Key="信息_本地核心启动">При включении сервер запускает сервер в папке сервера в папке "сервер".</s:String>
+<s:String x:Key="信息_指定核心启动">При включении сервер запускает сервер в указанной папке</s:String>
+<!--Содержание уведомления-->
+<s:String x:Key="通知_由于服务器处于运行状态配置文件会以下次重启应用内容">Поскольку сервер работает, файл конфигурации перезапускает приложение следующим образом</s:String>
+<s:String x:Key="通知_已成功保存服务端配置文件内容">Содержимое файла конфигурации сервера успешно сохранено</s:String>
+<!--Содержание информационного поля-->
+<s:String x:Key="信息框_你当前使用的不是Mod端可能无法加载Mod">Вы не используете модульную службу, возможно, не сможете загрузить модуль</s:String>
+<!--Возврат перевода текста-->
+<s:String x:Key="返回_信息">Информация</s:String>
+<s:String x:Key="返回_错误">Ошибка</s:String>
+<s:String x:Key="返回_警告">Предупреждение</s:String>
+<s:String x:Key="返回_调试日志已禁用">Журнал отладки отключен</s:String>
+<s:String x:Key="返回_正在加载服务端配置文件">Загрузка файла конфигурации сервера</s:String>
+<s:String x:Key="返回_正在加载地图已完成">Загрузка карты завершена</s:String>
+<s:String x:Key="返回_正在加载地图">Загрузка карты</s:String>
+<s:String x:Key="返回_启动Minecraft服务端版本">Запуск Minecraft версии сервера:</s:String>
+<s:String x:Key="返回_正在加载所需文件请稍等">Загрузка необходимых файлов,пожалуйста, подождите...</s:String>
+<s:String x:Key="返回_默认的游戏类型">Тип игры по умолчанию:</s:String>
+<s:String x:Key="返回_生存">Выживание</s:String>
+<s:String x:Key="返回_创造">Креатив</s:String>
+<s:String x:Key="返回_冒险">Приключения</s:String>
+<s:String x:Key="返回_当前Minecraft服务端端口为">Текущий порт сервера Minecraft</s:String>
+<s:String x:Key="返回_开始准备">Начинайте подготовку:</s:String>
+<s:String x:Key="返回_号地图地图种子">Нет карты (seed:</s:String>
+<s:String x:Key="返回_正在关闭服务端">Отключает сервер</s:String>
+<s:String x:Key="返回_正在保存玩家数据">Сохранение данных игрока</s:String>
+<s:String x:Key="返回_正在保存地图数据">Сохранение данных карты</s:String>
+<s:String x:Key="返回_服务器启动完成">Запуск сервера завершен</s:String>
+<s:String x:Key="返回_需要帮助">Для справки, введите команду "help " или"?"</s:String>
+<s:String x:Key="返回_实体跟踪范围">Область отслеживания сущностей</s:String>
+<s:String x:Key="返回_实体激活范围">Область активации сущности</s:String>
+<s:String x:Key="返回_怪物生成范围">Диапазон генерации монстров</s:String>
+<s:String x:Key="返回_随机照明更新">Обновление случайного освещения</s:String>
+<s:String x:Key="返回_甘蔗生长调节">Регулирование роста сахарного тростника</s:String>
+<s:String x:Key="返回_仙人掌增长调节">Регулирование роста кактуса</s:String>
+<s:String x:Key="返回_蘑菇生长调节">Регулирование роста грибов</s:String>
+<s:String x:Key="返回_西瓜增长调节">Регулирование роста арбузов</s:String>
+<s:String x:Key="返回_南瓜增长调节">Регулирование роста тыквы</s:String>
+<s:String x:Key="返回_树苗生长调节">Регулирование роста саженцев</s:String>
+<s:String x:Key="返回_小麦生长调节">Регулирование роста пшеницы</s:String>
+<s:String x:Key="返回_地狱疣生长调节">Регулирование роста адских бородавок</s:String>
+<s:String x:Key="返回_僵尸攻击村民">Зомби нападают на жителей деревни</s:String>
+<s:String x:Key="返回_经验合并半径">Радиус слияния опыта</s:String>
+<s:String x:Key="返回_最大TNT爆炸">Максимальный взрыв ТНТ</s:String>
+<s:String x:Key="返回_结构信息保存">Сохранение структурной информации</s:String>
+<s:String x:Key="返回_开始设置世界">Начните устанавливать мир</s:String>
+<s:String x:Key="返回_物品消失率">Скорость исчезновения предметов</s:String>
+<s:String x:Key="返回_物品合并半径">Радиус слияния элементов</s:String>
+<s:String x:Key="返回_同意协议">Для запуска сервера необходимо согласие с соглашением EULA.Откройте серверную папку eula.txt для получения дополнительной информации</s:String>
+<!--<Начальное использование интерфейса>-->
+<s:String x:Key="标签_首次第一页内容">Во-первых, давайте установим что-то для первого использования</s:String>
+<s:String x:Key="标签_首次首页标题">Добро пожаловать использовать</s:String>
+<s:String x:Key="标签_首次首页内容">- NullCraft 呈现 -</s:String>
+<!--<Первая страница>-->
+<s:String x:Key="标签_首次第二页内容">Пусть ты прочитаешь меня</s:String>
+<s:String x:Key="标签_首次语言标题">Дай угадаю,на каком языке ты говоришь?</s:String>
+<s:String x:Key="标签_首次语言内容">Правильно?</s:String>
+<s:String x:Key="标签_首次语言提示">Если вы хотите использовать другой язык, вы можете заменить его ниже</s:String>
+<!--<Вторая страница>-->
+<s:String x:Key="标签_首次第三页内容">Перевод от maxim19116!</s:String>
+<s:String x:Key="标签_首次颜色标题">Что?Не нравится этот цвет?</s:String>
+<s:String x:Key="标签_首次颜色内容">Тогда давай поменяемся.</s:String>
+<s:String x:Key="标签_首次颜色提示">Эти настройки могут быть изменены в любое время в главном интерфейсе > настройки темы</s:String>
+<!--<Третья страница>-->
+<s:String x:Key="标签_首次第四页内容">Что такое память, можно ли есть?</s:String>
+<s:String x:Key="标签_首次内存标题">Научитесь выделять память на стороне сервера</s:String>
+<s:String x:Key="标签_首次内存内容">0 для автоматического назначения</s:String>
+<s:String x:Key="标签_首次内存提示">Эти настройки можно изменить в любое время в главном интерфейсе > панели инструментов</s:String>
+<s:String x:Key="标签_首次内存最大">Максимальная память</s:String>
+<s:String x:Key="标签_首次内存最小">Минимальная память</s:String>
+<!--<Четвертая страница>-->
+<s:String x:Key="标签_首次第五页内容">Немного острых ощущений!</s:String>
+<s:String x:Key="标签_首次名字标题">Здравствуйте, пожалуйста</s:String>
+<s:String x:Key="标签_首次名字内容">?</s:String>
+<s:String x:Key="标签_首次名字提示">Чтобы изменить их, перейдите к главному интерфейсу>аватар пользователя</s:String>
+<s:String x:Key="标签_首次名字提示标题">Если нет,скажите мне, как вас зовут. (Рекомендуется не более 10 слов)</s:String>
+<s:String x:Key="标签_首次头像标题">С именем, пришло время для портрета.</s:String>
+<s:String x:Key="标签_首次头像内容">Выберите свой собственный аватар</s:String>
+<s:String x:Key="标签_首次头像提示">Примечание: если не задано, используйте пользовательский аватар системы</s:String>
+<s:String x:Key="标签_首次头像提示标题">Рекомендуется использовать квадратную картинку</s:String>
+<s:String x:Key="按钮_首次设置头像">Выбрать аватар</s:String>
+<s:String x:Key="按钮_首次完成头像">Сброс настроек</s:String>
+<!--<Страница пятая>-->
+<s:String x:Key="标签_首次第六页内容">Что-то более захватывающее!</s:String>
+<s:String x:Key="标签_首次背景标题">Может быть, вы хотите что-то более захватывающее</s:String>
+<s:String x:Key="标签_首次背景内容">Давайте настроим фон</s:String>
+<s:String x:Key="标签_首次背景提示">Эти настройки могут быть изменены в любое время в главном интерфейсе > настройки темы</s:String>
+<s:String x:Key="按钮_首次设置背景">Выбрать фон</s:String>
+<!--<Страница 6>-->
+<s:String x:Key="标签_首次第七页内容">大吉大利,今晚吃鸡</s:String>
+<s:String x:Key="标签_首次完成标题">首次使用准备完毕</s:String>
+<s:String x:Key="标签_首次完成内容">欢迎使用</s:String>
+<s:String x:Key="标签_首次完成提示">你可以前往 主界面 > 教程 来获取更多帮助</s:String>
+<!--Многоязыковая почта-->
+<s:String x:Key="邮件_服务器发生了一些问题">Что-то не так с сервером</s:String>
+<s:String x:Key="邮件_服务器状态">Состояние сервера</s:String>
+<s:String x:Key="邮件_服务器版本">Версия сервера</s:String>
+<s:String x:Key="邮件_崩溃次数">Количество аварий</s:String>
+<s:String x:Key="邮件_控制台内容">Содержимое консоли</s:String>
+<s:String x:Key="邮件_关闭时间">Время закрытия:</s:String>
+<s:String x:Key="邮件_状态关闭">Закрыть</s:String>
