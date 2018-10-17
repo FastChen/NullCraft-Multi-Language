@@ -32,7 +32,7 @@
 
 |项目名称                         |语言             |人员 |
 |--------------------------------|--------------------|------------|
-|NullCraft Minecraft Server Pro  |ru-Ru  |maxim19116|
+|NullCraft Minecraft Server Pro  |ru-Ru  |[maxim19116](https://github.com/maxim19116)|
 
 ## emmm一些声明
 
