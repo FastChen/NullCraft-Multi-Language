@@ -34,7 +34,3 @@
 |--------------------------------|--------------------|------------|
 |NullCraft Minecraft Server Pro  |ru-Ru  |[maxim19116](https://github.com/maxim19116)|
 
-## emmm一些声明
-
-本人不是很会玩Github,不知道怎么设置拉取其他人上传啥的,有会的可以来群里教我.jpg<br>
-NullCraft Service Project - 239336981
